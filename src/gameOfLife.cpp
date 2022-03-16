@@ -6,7 +6,7 @@
 
 #define XLIM 1280
 #define YLIM 640
-#define PIXEL 10
+#define PIXEL 5
 #define PROB 3
 #define NX  (XLIM/PIXEL)
 #define NY  (YLIM/PIXEL)
